@@ -1,133 +1,138 @@
-<h1 align="center">
-  <a href="https://www.rerun.io/">
-    <img alt="banner" src="https://user-images.githubusercontent.com/1148717/218142418-1d320929-6b7a-486e-8277-fbeef2432529.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+  <a href="https://www.rerun.io/" rel="nofollow">
+    <img alt="横幅" src="https://user-images.githubusercontent.com/1148717/218142418-1d320929-6b7a-486e-8277-fbeef2432529.png" style="max-width: 100%;">
   </a>
-</h1>
+</h1><a id="user-content---------" class="anchor" aria-label="永久链接：" href="#--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+  <a href="https://pypi.org/project/rerun-sdk/" rel="nofollow">                        <img alt="皮皮" src="https://camo.githubusercontent.com/41eb71673ac080b28724faa0c576630a95d748b8a47c295a4e2157e63c90c872/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f726572756e2d73646b2e737667" data-canonical-src="https://img.shields.io/pypi/v/rerun-sdk.svg" style="max-width: 100%;">                              </a>
+  <a href="https://crates.io/crates/rerun" rel="nofollow">                             <img alt="crates.io" src="https://camo.githubusercontent.com/d7dbc9709c3b4c08491b96e94e283708e733dfa46e35ab89cef68599dad01d22/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f726572756e2e737667" data-canonical-src="https://img.shields.io/crates/v/rerun.svg" style="max-width: 100%;">                                </a>
+  <a href="https://github.com/rerun-io/rerun/blob/main/LICENSE-MIT">    <img alt="麻省理工学院" src="https://camo.githubusercontent.com/2bb6ac78e5a9f4f688a6a066cc71b62012101802fcdb478e6e4c6b6ec75dc694/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width: 100%;">                        </a>
+  <a href="https://github.com/rerun-io/rerun/blob/main/LICENSE-APACHE"> <img alt="阿帕奇" src="https://camo.githubusercontent.com/d7addb0c76e1634e2335a071640043bf515d94b5c9d88b604fbe77c26920cfb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4170616368652d626c75652e737667" data-canonical-src="https://img.shields.io/badge/license-Apache-blue.svg" style="max-width: 100%;">                     </a>
+  <a href="https://discord.gg/Gcm8BbTaAj" rel="nofollow">                              <img alt="重新运行不和谐" src="https://camo.githubusercontent.com/1e410aa359927f68de5871ae2d14cd23e797e4c293ec4a3918f3d2fd34b23726/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313036323330303734383230323932313939343f6c6162656c3d526572756e253230446973636f7264" data-canonical-src="https://img.shields.io/discord/1062300748202921994?label=Rerun%20Discord" style="max-width: 100%;"> </a>
+</h1><a id="user-content---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------" class="anchor" aria-label="永久链接：" href="#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建多模式数据的时间感知可视化</font></font></h1><a id="user-content-build-time-aware-visualizations-of-multimodal-data" class="anchor" aria-label="永久链接：构建多模式数据的时间感知可视化" href="#build-time-aware-visualizations-of-multimodal-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Rerun SDK（适用于 C++、Python 和 Rust）记录图像、张量、点云和文本等数据。日志被传输到重新运行查看器以进行实时可视化或归档以供以后使用。</font></font></p>
+<ul dir="auto">
+<li><a href="https://www.rerun.io/viewer" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在浏览器中运行重新运行查看器</font></font></a></li>
+<li><a href="https://www.rerun.io/docs/getting-started/what-is-rerun" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解 Rerun 是什么以及它的适用人群</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">短暂的品味</font></font></h3><a id="user-content-a-short-taste" class="anchor" aria-label="永久链接： 简短的品味" href="#a-short-taste"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">import</span> <span class="pl-s1">rerun</span> <span class="pl-k">as</span> <span class="pl-s1">rr</span>  <span class="pl-c"># pip install rerun-sdk</span>
 
-<h1 align="center">
-  <a href="https://pypi.org/project/rerun-sdk/">                        <img alt="PyPi"           src="https://img.shields.io/pypi/v/rerun-sdk.svg">                              </a>
-  <a href="https://crates.io/crates/rerun">                             <img alt="crates.io"      src="https://img.shields.io/crates/v/rerun.svg">                                </a>
-  <a href="https://github.com/rerun-io/rerun/blob/main/LICENSE-MIT">    <img alt="MIT"            src="https://img.shields.io/badge/license-MIT-blue.svg">                        </a>
-  <a href="https://github.com/rerun-io/rerun/blob/main/LICENSE-APACHE"> <img alt="Apache"         src="https://img.shields.io/badge/license-Apache-blue.svg">                     </a>
-  <a href="https://discord.gg/Gcm8BbTaAj">                              <img alt="Rerun Discord"  src="https://img.shields.io/discord/1062300748202921994?label=Rerun%20Discord"> </a>
-</h1>
+<span class="pl-s1">rr</span>.<span class="pl-en">init</span>(<span class="pl-s">"rerun_example_app"</span>)
 
-# Build time aware visualizations of multimodal data
+<span class="pl-s1">rr</span>.<span class="pl-en">connect</span>()  <span class="pl-c"># Connect to a remote viewer</span>
+<span class="pl-c"># rr.spawn()  # Spawn a child process with a viewer and connect</span>
+<span class="pl-c"># rr.save("recording.rrd")  # Stream all logs to disk</span>
 
-Use the Rerun SDK (available for C++, Python and Rust) to log data like images, tensors, point clouds, and text. Logs are streamed to the Rerun Viewer for live visualization or to file for later use.
+<span class="pl-c"># Associate subsequent data with 42 on the “frame” timeline</span>
+<span class="pl-s1">rr</span>.<span class="pl-en">set_time_sequence</span>(<span class="pl-s">"frame"</span>, <span class="pl-c1">42</span>))
 
-* [Run the Rerun Viewer in your browser](https://www.rerun.io/viewer)
-* [Read about what Rerun is and who it is for](https://www.rerun.io/docs/getting-started/what-is-rerun)
+<span class="pl-c"># Log colored 3D points to the entity at `path/to/points`</span>
+<span class="pl-s1">rr</span>.<span class="pl-en">log</span>(<span class="pl-s">"path/to/points"</span>, <span class="pl-s1">rr</span>.<span class="pl-v">Points3D</span>(<span class="pl-s1">positions</span>, <span class="pl-s1">colors</span><span class="pl-c1">=</span><span class="pl-s1">colors</span>))
+…</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="import rerun as rr  # pip install rerun-sdk
 
-### A short taste
-```py
-import rerun as rr  # pip install rerun-sdk
-
-rr.init("rerun_example_app")
+rr.init(&quot;rerun_example_app&quot;)
 
 rr.connect()  # Connect to a remote viewer
 # rr.spawn()  # Spawn a child process with a viewer and connect
-# rr.save("recording.rrd")  # Stream all logs to disk
+# rr.save(&quot;recording.rrd&quot;)  # Stream all logs to disk
 
 # Associate subsequent data with 42 on the “frame” timeline
-rr.set_time_sequence("frame", 42))
+rr.set_time_sequence(&quot;frame&quot;, 42))
 
 # Log colored 3D points to the entity at `path/to/points`
-rr.log("path/to/points", rr.Points3D(positions, colors=colors))
-…
-```
-
-<p align="center">
-  <picture>
-    <img src="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/full.png" alt="">
-    <source media="(max-width: 480px)" srcset="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/480w.png">
-    <source media="(max-width: 768px)" srcset="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/768w.png">
-    <source media="(max-width: 1024px)" srcset="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/1024w.png">
-    <source media="(max-width: 1200px)" srcset="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/1200w.png">
-  </picture>
+rr.log(&quot;path/to/points&quot;, rr.Points3D(positions, colors=colors))
+…" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p align="center" dir="auto">
+  <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+    <img src="https://camo.githubusercontent.com/ce654b09868fbe886e63bdd265d5fade54be1c7ab3c74b0c48d5e4d6f7615696/68747470733a2f2f7374617469632e726572756e2e696f2f6f70665f73637265656e73686f742f626565353130343063626139336330626165363265663663353766613730333730343031326134312f66756c6c2e706e67" alt="" data-canonical-src="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/full.png" style="visibility:visible;max-width:100%;">
+    <source media="(max-width: 480px)" srcset="https://camo.githubusercontent.com/4538b6fa1df3ab7bed9701310f81b44789ad3c502cf3e00db7678e48e522cb37/68747470733a2f2f7374617469632e726572756e2e696f2f6f70665f73637265656e73686f742f626565353130343063626139336330626165363265663663353766613730333730343031326134312f343830772e706e67" data-canonical-src="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/480w.png">
+    <source media="(max-width: 768px)" srcset="https://camo.githubusercontent.com/751ea6a05b4199a09d4e2ecb83d83c3d02a5166dd0037350cfb017ac3600f69c/68747470733a2f2f7374617469632e726572756e2e696f2f6f70665f73637265656e73686f742f626565353130343063626139336330626165363265663663353766613730333730343031326134312f373638772e706e67" data-canonical-src="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/768w.png">
+    <source media="(max-width: 1024px)" srcset="https://camo.githubusercontent.com/b77ebde35510f36b4e86188d84c2488c07cdd3f0e96c3a5722ca6ca2be2d7430/68747470733a2f2f7374617469632e726572756e2e696f2f6f70665f73637265656e73686f742f626565353130343063626139336330626165363265663663353766613730333730343031326134312f31303234772e706e67" data-canonical-src="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/1024w.png">
+    <source media="(max-width: 1200px)" srcset="https://camo.githubusercontent.com/08cf4a7769d9fdfbf96bcf1b4aa20936e81905644f4f24798ca75b9913e3d0f1/68747470733a2f2f7374617469632e726572756e2e696f2f6f70665f73637265656e73686f742f626565353130343063626139336330626165363265663663353766613730333730343031326134312f31323030772e706e67" data-canonical-src="https://static.rerun.io/opf_screenshot/bee51040cba93c0bae62ef6c57fa703704012a41/1200w.png">
+  </picture></themed-picture>
 </p>
-
-## Getting started
-* **C++**: [Guide](https://www.rerun.io/docs/getting-started/quick-start/cpp)
-* **Python**: `pip install rerun-sdk` or on [`conda`](https://github.com/conda-forge/rerun-sdk-feedstock)
-* **Rust**: `cargo add rerun`
-
-### Rerun Viewer binary
-Both the Python and Rust library can start the Rerun Viewer, but to stream log data over the network or load our `.rrd` data files you also need the `rerun` binary.
-
-It can be installed with `pip install rerun-sdk` or with `cargo install rerun-cli`.
-
-You should now be able to run `rerun --help` in any terminal.
-
-
-### Documentation
-- 📚 [High-level docs](http://rerun.io/docs)
-- ⏃ [Loggable Types](https://www.rerun.io/docs/reference/types)
-- ⚙️ [Examples](http://rerun.io/examples)
-- 🌊 [C++ API docs](https://ref.rerun.io/docs/cpp)
-- 🐍 [Python API docs](https://ref.rerun.io/docs/python)
-- 🦀 [Rust API docs](https://docs.rs/rerun/)
-- ⁉️ [Troubleshooting](https://www.rerun.io/docs/getting-started/troubleshooting)
-
-
-## Status
-We are in active development.
-There are many features we want to add, and the API is still evolving.
-_Expect breaking changes!_
-
-Current shortcomings that we are working on:
-* [Multi-million point clouds are slow](https://github.com/rerun-io/rerun/issues/1136)
-* [Logging many tiny things (e.g. scalars) has a lot of overhead](https://github.com/rerun-io/rerun/issues/5967)
-* The data you want to visualize must fit in RAM
-  - See <https://www.rerun.io/docs/howto/limit-ram> for how to bound memory use.
-  - We plan on having a disk-based data store some time in the future.
-
-
-## What is Rerun for?
-
-Rerun is built to help you understand complex processes that include rich multimodal data, like 2D, 3D, text, time series, tensors, etc.
-It is used in many industries, including robotics, simulation, computer vision,
-or anything that involves a lot of sensors or other signals that evolve over time.
-
-### Example use case
-Say you're building a vacuum cleaning robot and it keeps running into walls. Why is it doing that? You need some tool to debug it, but a normal debugger isn't gonna be helpful. Similarly, just logging text won't be very helpful either. The robot may log "Going through doorway" but that won't explain why it thinks the wall is a door.
-
-What you need is a visual and temporal debugger, that can log all the different representations of the world the robots holds in its little head, such as:
-
-* RGB camera feed
-* depth images
-* lidar scan
-* segmentation image (how the robot interprets what it sees)
-* its 3D map of the apartment
-* all the objects the robot has detected (or thinks it has detected), as 3D shapes in the 3D map
-* its confidence in its prediction
-* etc
-
-You also want to see how all these streams of data evolve over time so you can go back and pinpoint exactly what went wrong, when and why.
-
-Maybe it turns out that a glare from the sun hit one of the sensors in the wrong way, confusing the segmentation network leading to bad object detection. Or maybe it was a bug in the lidar scanning code. Or maybe the robot thought it was somewhere else in the apartment, because its odometry was broken. Or it could be one of a thousand other things. Rerun will help you find out!
-
-But seeing the world from the point of the view of the robot is not just for debugging - it will also give you ideas on how to improve the algorithms, new test cases to set up, or datasets to collect. It will also let you explain the brains of the robot to your colleagues, boss, and customers. And so on. Seeing is believing, and an image is worth a thousand words, and multimodal temporal logging is worth a thousand images :)
-
-Of course, Rerun is useful for much more than just robots. Any time you have any form of sensors, or 2D or 3D state evolving over time, Rerun would be a great tool.
-
-
-## Business model
-Rerun uses an open-core model. Everything in this repository will stay open source and free (both as in beer and as in freedom).
-In the future, Rerun will offer a commercial product that builds on top of the core free project.
-
-The Rerun open source project targets the needs of individual developers.
-The commercial product targets the needs specific to teams that build and run computer vision and robotics products.
-
-## How to cite Rerun
-
-When using Rerun in your research, please cite it to acknowledge its contribution to your work. This can be done by
-including a reference to Rerun in the software or methods section of your paper.
-
-Suggested citation format:
-
-```bibtex
-@software{RerunSDK,
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><a href="https://www.rerun.io/docs/getting-started/quick-start/cpp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><code>pip install rerun-sdk</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或上</font></font><a href="https://github.com/conda-forge/rerun-sdk-feedstock"><code>conda</code></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">铁锈</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font><code>cargo add rerun</code></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重新运行查看器二进制文件</font></font></h3><a id="user-content-rerun-viewer-binary" class="anchor" aria-label="永久链接：重新运行查看器二进制文件" href="#rerun-viewer-binary"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 和 Rust 库都可以启动重新运行查看器，但要通过网络传输日志数据或加载我们的</font></font><code>.rrd</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据文件，您还需要</font></font><code>rerun</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二进制文件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><code>pip install rerun-sdk</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它可以通过或 来</font><font style="vertical-align: inherit;">安装</font></font><code>cargo install rerun-cli</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您现在应该能够</font></font><code>rerun --help</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在任何终端中运行。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h3><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font><a href="http://rerun.io/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级文档</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⏃</font></font><a href="https://www.rerun.io/docs/reference/types" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可记录类型</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚙️</font></font><a href="http://rerun.io/examples" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌊 </font></font><a href="https://ref.rerun.io/docs/cpp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++ API 文档</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐍Python </font></font><a href="https://ref.rerun.io/docs/python" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API 文档</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🦀 </font></font><a href="https://docs.rs/rerun/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rust API 文档</font></font></a></li>
+<li><g-emoji class="g-emoji" alias="interrobang"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⁉️</font></font></g-emoji> <a href="https://www.rerun.io/docs/getting-started/troubleshooting" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地位</font></font></h2><a id="user-content-status" class="anchor" aria-label="永久链接：状态" href="#status"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们正在积极开发中。我们想要添加许多功能，并且 API 仍在不断发展。
+</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">期待突破性的改变！</font></font></em></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目前我们正在努力解决的缺点：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/rerun-io/rerun/issues/1136" data-hovercard-type="issue" data-hovercard-url="/rerun-io/rerun/issues/1136/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数百万个点云速度很慢</font></font></a></li>
+<li><a href="https://github.com/rerun-io/rerun/issues/5967" data-hovercard-type="issue" data-hovercard-url="/rerun-io/rerun/issues/5967/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">记录许多微小的事情（例如标量）会产生很大的开销</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您想要可视化的数据必须适合 RAM
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://www.rerun.io/docs/howto/limit-ram" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.rerun.io/docs/howto/limit-ram</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解如何限制内存使用。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们计划在未来某个时候拥有基于磁盘的数据存储。</font></font></li>
+</ul>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重新运行是为了什么？</font></font></h2><a id="user-content-what-is-rerun-for" class="anchor" aria-label="永久链接： 重新运行有什么用？" href="#what-is-rerun-for"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rerun 旨在帮助您理解复杂的流程，其中包括丰富的多模态数据，如 2D、3D、文本、时间序列、张量等。它用于许多行业，包括机器人、模拟、计算机视觉或任何涉及大量数据的行业随着时间的推移而演变的传感器或其他信号。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例用例</font></font></h3><a id="user-content-example-use-case" class="anchor" aria-label="永久链接：示例用例" href="#example-use-case"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">假设您正在建造一个真空清洁机器人，但它总是撞到墙壁。它为什么要这么做？您需要一些工具来调试它，但普通的调试器不会有帮助。同样，仅记录文本也没有多大帮助。机器人可能会记录“穿过门口”，但这并不能解释为什么它认为墙壁是门。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您需要的是一个视觉和时间调试器，它可以记录机器人在其小脑袋中所持有的世界的所有不同表示，例如：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RGB 相机馈送</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度图像</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">激光雷达扫描</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分割图像（机器人如何解释它所看到的内容）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公寓的 3D 地图</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人已检测到（或认为已检测到）的所有对象，作为 3D 地图中的 3D 形状</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对自己的预测充满信心</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ETC</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还希望了解所有这些数据流如何随着时间的推移而演变，以便您可以回过头来准确找出问题所在、时间和原因。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">也许事实证明，来自太阳的眩光以错误的方式照射到其中一个传感器，从而混淆了分割网络，导致错误的对象检测。或者可能是激光雷达扫描代码中的错误。或者机器人可能认为它在公寓的其他地方，因为它的里程计被破坏了。或者它可能是其他上千件事之一。重新运行将帮助您找到答案！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但从机器人的角度看世界不仅仅是为了调试，它还能为您提供有关如何改进算法、设置新测试用例或收集数据集的想法。它还可以让您向同事、老板和客户解释机器人的大脑。等等。眼见为实，一张图像胜过一千个文字，多模态时间记录胜过一千张图像:)</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当然，Rerun 的用途不仅仅限于机器人。任何时候您有任何形式的传感器，或者随着时间的推移而演变的 2D 或 3D 状态，Rerun 将是一个很棒的工具。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">商业模式</font></font></h2><a id="user-content-business-model" class="anchor" aria-label="永久链接：商业模式" href="#business-model"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rerun 采用开放核心模型。这个存储库中的所有内容都将保持开源和免费（就像啤酒和自由一样）。将来，Rerun 将提供构建在核心免费项目之上的商业产品。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rerun 开源项目针对个人开发人员的需求。该商业产品针对构建和运行计算机视觉和机器人产品的团队的特定需求。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何引用重播</font></font></h2><a id="user-content-how-to-cite-rerun" class="anchor" aria-label="永久链接：如何引用 Rerun" href="#how-to-cite-rerun"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在您的研究中使用 Rerun 时，请引用它以承认它对您的工作的贡献。这可以通过在论文的软件或方法部分中引用重新运行来完成。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建议的引用格式：</font></font></p>
+<div class="highlight highlight-text-bibtex notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">@software</span>{<span class="pl-en">RerunSDK</span>,
+  <span class="pl-s">title</span> = <span class="pl-s"><span class="pl-pds">{</span>Rerun: A Visualization SDK for Multimodal Data<span class="pl-pds">}</span></span>,
+  <span class="pl-s">author</span> = <span class="pl-s"><span class="pl-pds">{</span>{Rerun Development Team}<span class="pl-pds">}</span></span>,
+  <span class="pl-s">url</span> = <span class="pl-s"><span class="pl-pds">{</span>https://www.rerun.io<span class="pl-pds">}</span></span>,
+  <span class="pl-s">version</span> = <span class="pl-s"><span class="pl-pds">{</span>insert version number<span class="pl-pds">}</span></span>,
+  <span class="pl-s">date</span> = <span class="pl-s"><span class="pl-pds">{</span>insert date of usage<span class="pl-pds">}</span></span>,
+  <span class="pl-s">year</span> = <span class="pl-s"><span class="pl-pds">{</span>2024<span class="pl-pds">}</span></span>,
+  <span class="pl-s">publisher</span> = <span class="pl-s"><span class="pl-pds">{</span>{Rerun Technologies AB}<span class="pl-pds">}</span></span>,
+  <span class="pl-s">address</span> = <span class="pl-s"><span class="pl-pds">{</span>Online<span class="pl-pds">}</span></span>,
+  <span class="pl-s">note</span> = <span class="pl-s"><span class="pl-pds">{</span>Available from https://www.rerun.io/ and https://github.com/rerun-io/rerun<span class="pl-pds">}</span></span>
+}</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@software{RerunSDK,
   title = {Rerun: A Visualization SDK for Multimodal Data},
   author = {{Rerun Development Team}},
   url = {https://www.rerun.io},
@@ -137,26 +142,30 @@ Suggested citation format:
   publisher = {{Rerun Technologies AB}},
   address = {Online},
   note = {Available from https://www.rerun.io/ and https://github.com/rerun-io/rerun}
-}
-```
-
-Please replace "insert version number" with the version of Rerun you used and "insert date of usage" with the date(s)
-you used the tool in your research.
-This citation format helps ensure that Rerun's development team receives appropriate credit for their work and
-facilitates the tool's discovery by other researchers.
-
-# Development
-* [`ARCHITECTURE.md`](ARCHITECTURE.md)
-* [`BUILD.md`](BUILD.md)
-* [`rerun_py/README.md`](rerun_py/README.md) - build instructions for Python SDK
-* [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
-* [`CODE_STYLE.md`](CODE_STYLE.md)
-* [`CONTRIBUTING.md`](CONTRIBUTING.md)
-* [`RELEASES.md`](RELEASES.md)
-
-
-## Installing a pre-release Python SDK
-
-1. Download the correct `.whl` from [GitHub Releases](https://github.com/rerun-io/rerun/releases)
-2. Run `pip install rerun_sdk<…>.whl` (replace `<…>` with the actual filename)
-3. Test it: `rerun --version`
+}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请将“插入版本号”替换为您使用的 Rerun 版本，并将“插入使用日期”替换为您在研究中使用该工具的日期。这种引用格式有助于确保 Rerun 的开发团队的工作获得适当的认可，并促进其他研究人员发现该工具。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></h1><a id="user-content-development" class="anchor" aria-label="永久链接： 发展" href="#development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="/rerun-io/rerun/blob/main/ARCHITECTURE.md"><code>ARCHITECTURE.md</code></a></li>
+<li><a href="/rerun-io/rerun/blob/main/BUILD.md"><code>BUILD.md</code></a></li>
+<li><a href="/rerun-io/rerun/blob/main/rerun_py/README.md"><code>rerun_py/README.md</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Python SDK 的构建说明</font></font></li>
+<li><a href="/rerun-io/rerun/blob/main/CODE_OF_CONDUCT.md"><code>CODE_OF_CONDUCT.md</code></a></li>
+<li><a href="/rerun-io/rerun/blob/main/CODE_STYLE.md"><code>CODE_STYLE.md</code></a></li>
+<li><a href="/rerun-io/rerun/blob/main/CONTRIBUTING.md"><code>CONTRIBUTING.md</code></a></li>
+<li><a href="/rerun-io/rerun/blob/main/RELEASES.md"><code>RELEASES.md</code></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装预发布的 Python SDK</font></font></h2><a id="user-content-installing-a-pre-release-python-sdk" class="anchor" aria-label="永久链接：安装预发布的 Python SDK" href="#installing-a-pre-release-python-sdk"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>.whl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从</font><a href="https://github.com/rerun-io/rerun/releases"><font style="vertical-align: inherit;">GitHub 版本</font></a><font style="vertical-align: inherit;">下载正确的版本</font></font><a href="https://github.com/rerun-io/rerun/releases"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font></font><code>pip install rerun_sdk&lt;…&gt;.whl</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（替换</font></font><code>&lt;…&gt;</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为实际文件名）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试一下：</font></font><code>rerun --version</code></li>
+</ol>
+</article></div>
